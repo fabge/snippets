@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/bash.html",
+      "/posts/pythonic-javascript.html",
+      "/posts/docker.html",
+      "/posts/fastai.html",
+      "/posts/pandas.html",
+      "/posts/unix.html",
+      "/posts/jupyter-notebook.html",
+      "/posts/machine-learning-pytorch.html"
+    ]
+  }
+]
