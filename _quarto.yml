@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: snippets
+
+website:
+  title: "snippets"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/fabge/blog
+format:
+  html:
+    theme:
+      light: litera
+      dark: solar
+    highlight-style: 
+      light: arrow-light
+      dark: arrow-dark
