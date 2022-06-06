@@ -7,7 +7,7 @@ website:
   navbar:
     right:
       - icon: github
-        href: https://github.com/fabge/blog
+        href: https://github.com/fabge/snippets
 format:
   html:
     theme:
