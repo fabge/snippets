@@ -6,6 +6,8 @@ website:
   title: "snippets"
   twitter-card: true
   opengraph: true
+  repo-url: https://github.com/fabge/snippets
+  repo-actions: [edit, issue]
   navbar:
     right:
       - icon: github
