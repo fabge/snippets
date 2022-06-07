@@ -21,7 +21,7 @@ jobs:
           python3 -m venv .venv
           source .venv/bin/activate
           pip install ipykernel
-          ipython kernel install --name=venv --user
+          ipython kernel install --name=python3 --user
           pip install -r requirements.txt
           quarto render --execute-debug
 
