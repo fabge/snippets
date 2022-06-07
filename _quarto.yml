@@ -11,6 +11,6 @@ website:
 format:
   html:
     theme:
-      light: litera
+      light: cosmo
       dark: solar
     highlight-style: github
