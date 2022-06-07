@@ -14,7 +14,9 @@ jobs:
           python-version: '3.8'
 
       - name: Install Quarto
-        uses: quarto-dev/quarto-actions/install-quarto@v1
+        uses: quarto-dev/quarto-actions/install-quarto@main
+        with:
+          version: 1.2.0
 
       - name: Install and Build
         run: |
