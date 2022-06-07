@@ -3,7 +3,7 @@ title: Quarto Examples
 description: "Exploring quarto capabilities"
 reference-location: margin
 date: "2022-06-07"
-jupyter: python3
+jupyter: venv
 categories: [quarto, snippets]
 toc: true
 ---
