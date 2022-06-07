@@ -4,6 +4,8 @@ project:
 
 website:
   title: "snippets"
+  twitter-card: true
+  opengraph: true
   navbar:
     right:
       - icon: github
