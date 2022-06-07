@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/quarto-test/quarto-test.html",
       "/posts/bash.html",
       "/posts/pythonic-javascript.html",
       "/posts/docker.html",
