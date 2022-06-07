@@ -2,3 +2,4 @@ nbformat
 nbclient
 matplotlib
 numpy
+ipyleaflet
