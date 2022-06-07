@@ -15,6 +15,8 @@ jobs:
 
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/install-quarto@main
+        with:
+          version: 0.9.535
 
       - name: Install and Build
         run: |
