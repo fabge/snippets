@@ -13,6 +13,4 @@ format:
     theme:
       light: litera
       dark: solar
-    highlight-style: 
-      light: arrow-light
-      dark: arrow-dark
+    highlight-style: github
