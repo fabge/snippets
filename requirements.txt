@@ -1,2 +1,4 @@
 nbformat
 nbclient
+matplotlib
+numpy
